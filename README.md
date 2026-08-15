@@ -1,5 +1,4 @@
-# Weather-Forecaster-git 
-# 🌤️ Weather Forecaster
+# 🌤️ Weather-Forecaster-git 
 
 Bash-скрипт для получения текущей информации о погоде в выбранном городе.
 
